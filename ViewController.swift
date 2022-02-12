@@ -57,7 +57,53 @@ class ViewController: UIViewController {
         
     }
     
+    //버튼 Action
     
+    @IBAction func btnAc1(_ sender: Any) {
+    }
+    
+    @IBAction func btnAc2(_ sender: Any) {
+    }
+    
+    
+    @IBAction func btnAc3(_ sender: Any) {
+    }
+    
+    @IBAction func btn4(_ sender: Any) {
+    }
+    
+    @IBAction func btnAc5(_ sender: Any) {
+    }
+    
+    
+    @IBAction func btnAc6(_ sender: Any) {
+    }
+    
+    
+    
+    
+    @IBAction func btnAc7(_ sender: Any) {
+    }
+    
+    
+    
+    @IBAction func btnAc8(_ sender: Any) {
+    }
+    
+    
+    
+    @IBAction func btn9(_ sender: Any) {
+    }
+    
+    
+    
+    
+    @IBAction func btnAc10(_ sender: Any) {
+    }
+    
+    
+    @IBAction func btnAc11(_ sender: Any) {
+    }
     
 }
 
